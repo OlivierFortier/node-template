@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "very small template for testing",
   "main": "handler.js",
-  "author": "Olivier Fortier"
+  "author": "Olivier Fortier",
+  "dependencies": {
+    "@azure/identity": "^2.0.4"
+  }
 }
