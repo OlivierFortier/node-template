@@ -2,13 +2,6 @@
   "name": "node-template",
   "version": "1.0.0",
   "description": "very small template for testing",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Olivier Fortier",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.26.0"
-  }
+  "main": "handler.js",
+  "author": "Olivier Fortier"
 }
